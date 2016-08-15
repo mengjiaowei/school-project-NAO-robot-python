@@ -1,0 +1,22 @@
+database = Markus
+path = Markus
+
+Proxy folder:
+TextToSpeech = Mengjiao
+detectLandmarks = Emil
+takeGun = Fredric
+tester = Emil
+proxy = Emil
+5stepsComeBack = Mengjiao
+
+Socket folder: 
+Client_img = David
+Client_file = Markus
+Serversocket File = Markus
+Serversocket IMG = David 
+
+Some classes and/or methods in the files are written by different people
+than the name which is written above.
+
+Also, after giving up the Bridge, Markus and David focused more on helping everyone
+else and not coding seperately. 
